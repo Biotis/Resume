@@ -42,15 +42,15 @@
 
 ### 🔹 모바일 앱 카테고리별 사용량과 정신 건강과의 상관관계 데이터분석
 
-PySpark를 사용하여 RDD 및 DataFrame 기반으로 모바일 앱 사용 데이터, 설문 응답 데이터, 수면 데이터를 통합하고 전처리하여 정신 건강 점수(PHQ-9, GAD-7, Stress)와 앱 사용 패턴 간의 관계를 분석하는 조절 회귀 분석을 수행한 데이터 분석 프로젝트
+PySpark를 사용하여 RDD 및 DataFrame 기반으로 모바일 앱 사용 데이터, 정신 건강 설문 응답 데이터, 수면 데이터를 통합하고 전처리한 데이터를 사용해 정신 건강 점수(PHQ-9, GAD-7, Stress)와 앱 사용 패턴 간의 관계를 분석
 
 - **주요 기술**: PySpark, Pandas, Statsmodels, RDD, Pandas
 - **역할**: 데이터 전처리, 상관관계 분석, 조절 회귀 분석 수행, 시각화
 - **특징**:
   - 모바일 앱 사용 데이터, 정신 건강 설문(PHQ-9, GAD-7, Stress), 수면 데이터를 통합하여 분석
-  - PySpark 기반 RDD 및 DataFrame을 활용해 대용량 CSV 데이터를 병합 및 전처리
+  - PySpark 기반 RDD 및 DataFrame을 활용해 CSV 데이터를 병합 및 전처리
   - 수면의 평균 신뢰도(mean_confidence_sleep)가 앱 사용량과 정신 건강 점수의 관계에 미치는 조절 효과 분석
-  - 분석 전체 과정을 RDD__Final_Analysis_Regression.ipynb 에 문서화해놓았음.
+  - 분석 전체 과정을 RDD__Final_Analysis_Regression.ipynb 에 문서화
 
 ---
 
