@@ -39,7 +39,7 @@
 
 ---
 
-### 🔹 모바일 앱 카테고리별 사용량과 정신 건강과의 상관관계 데이터분석
+### 🔹 [모바일 앱 카테고리별 사용량과 정신 건강과의 상관관계 데이터분석](https://github.com/Biotis/AppUsageMentalHealthAnalysis)
 
 PySpark를 사용하여 RDD 및 DataFrame 기반으로 모바일 앱 사용 데이터, 정신 건강 설문 응답 데이터, 수면 데이터를 통합하고 전처리한 데이터를 이용하여 정신 건강 점수(PHQ-9, GAD-7, Stress)와 앱 사용 패턴 간의 관계를 분석
 
