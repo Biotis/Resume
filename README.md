@@ -43,7 +43,7 @@
 
 PySpark를 사용하여 RDD 및 DataFrame 기반으로 모바일 앱 사용 데이터, 정신 건강 설문 응답 데이터, 수면 데이터를 통합하고 전처리한 데이터를 이용하여 정신 건강 점수(PHQ-9, GAD-7, Stress)와 앱 사용 패턴 간의 관계를 분석
 
-- **주요 기술**: PySpark, Pandas, Statsmodels, RDD, Pandas
+- **주요 기술**: PySpark, Pandas, Statsmodels, RDD
 - **목적**: 특정 카테고리의 앱 사용 시간이 사용자의 정신 건강 지표인 우울(PHQ-9), 불안(GAD-7), 스트레스(Stress Questionnaire)에 미치는 영향을 분석하고, 이 관계가 사용자의 수면 품질에 따라 어떻게 조절되는지 분석
 - **역할**: 데이터 전처리, 상관관계 분석, 조절 회귀 분석 수행, 시각화
 - **특징**:
