@@ -76,13 +76,15 @@ C1: 예문을 통한 영단어 학습 C2: 자동 생성 스토리를 통한 영�
 
 **언어: Python, C, SQL**<br>
 
-**도구/환경: Git, Linux**<br>
+**도구/환경: Git, Linux, Apache Airflow**<br>
 
 **데이터 처리: PySpark, Pandas, MongoDB**<br>
 
 **백엔드: FastAPI**<br>
 
-**프론트엔드: React(Vite), HTML, CSS** <br>
+**프론트엔드: React(Vite), HTML, CSS**<br>
+
+**시각화: Tableau**<br>
 
 **백준 프로필: `https://www.acmicpc.net/user/rhjung2001`**
 
